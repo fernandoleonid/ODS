@@ -5,4 +5,4 @@
 | Integrantes | Repositório | Figma | Pitch |Avaliação do Cliente |
 |---|---|---|---|---|
 |Jose, Maria, Hugo, Igor | [nome do projeto](http://github.com) | [prototipo](http://figma.com.br) | [pitch](http://youtube.com)|
-|Clara, Guilherme, Ítalo, Paula | [nome do projeto](https://github.com/believeItalo/Projeto_EducFour) | [prototipo](https://www.figma.com/file/fs3OMtd84Y9Vs73ii53vpB/EducFour?type=design&t=R09lbk9w4ESpwyoL-0) | [pitch](https://youtu.be/DE7cfPN3zc0)|
+|Clara, Guilherme, Ítalo, Paula | [EducFour](https://github.com/believeItalo/Projeto_EducFour) | [Prototipo](https://www.figma.com/file/fs3OMtd84Y9Vs73ii53vpB/EducFour?type=design&t=R09lbk9w4ESpwyoL-0) | [Pitch](https://youtu.be/DE7cfPN3zc0)|
