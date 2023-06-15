@@ -5,3 +5,4 @@
 | Integrantes | Repositório | Figma | Pitch |Avaliação do Cliente |
 |---|---|---|---|---|
 |Jose, Maria, Hugo, Igor | [nome do projeto](http://github.com) | [prototipo](http://figma.com.br) | [pitch](http://youtube.com)|
+|Eduardo, GustavoPrevelate, GabrielDomingues, Bianca | [ReciclandoEducacao]([http://github.com](https://github.com/Rib3r0/Reciclando)) | [prototipo]([http://figma.com.br](https://www.figma.com/file/8UnrysItM9fHTTRUBzABCh/Apresenta%C3%A7%C3%A3o?type=design&node-id=0-1&t=3bDAhYlofBxrURql-0)https://www.figma.com/file/8UnrysItM9fHTTRUBzABCh/Apresenta%C3%A7%C3%A3o?type=design&node-id=0-1&t=3bDAhYlofBxrURql-0) | [pitch](http://youtube.com)|
